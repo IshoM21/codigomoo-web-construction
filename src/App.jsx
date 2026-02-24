@@ -59,7 +59,7 @@ export default function App() {
         </section>
 
         <div className="actions">
-          <a className="btn primary" href="mailto:contacto@codigomoo.online">
+          <a className="btn primary" href="#">
             ✉️ Contacto
           </a>
           <a className="btn" href="https://github.com/IshoM21" target="_blank" rel="noreferrer">
